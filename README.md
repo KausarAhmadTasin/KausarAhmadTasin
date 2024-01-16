@@ -51,6 +51,11 @@ I'm committed to enhancing my skills and contributing to meaningful projects. My
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KausarAhmadTasin)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KausarAhmadTasin) 
+
+![](https://komarev.com/ghpvc/?username=KausarAhmadTasin&color=green)
+
 Thanks for stopping by! Let's build something amazing together. 😊
 <!--
 **KausarAhmadTasin/KausarAhmadTasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
