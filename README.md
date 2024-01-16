@@ -22,12 +22,12 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 
 I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in [specific technology/framework].
 
-## 📫 Contact
+<!---## 📫 Contact--->
 
 - **Email:** kausar.ahmad.tasin01@gmail.com
 - **Phone:** +8801521541678
-- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kausar-ahmad-tasin/))
-- **Portfolio:** [Portfolio Website]()
+- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kausar-ahmad-tasin/)
+<!--- **Portfolio:** [Portfolio Website]()-->
 
 
 
