@@ -1,8 +1,6 @@
 ![JavaScript || ReactJS || HTML || CSS](https://i.ibb.co/YR5QDkH/1.png)
-### Hi there 👋 I am Kausar Ahmad Tasin
+## Hi there 👋 I am Kausar Ahmad Tasin
 ### Jr. Front-End Developer || ReactJS Developer|| JavaScript Developer
-
-# Hello, I'm Kausar Ahmad! 👋
 
 I'm a dedicated Frontend Developer with a passion for crafting exceptional user experiences. I specialize in using modern technologies like React.js, JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap to build responsive and visually appealing web applications.
 
