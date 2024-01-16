@@ -52,7 +52,7 @@ I'm committed to enhancing my skills and contributing to meaningful projects. My
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KausarAhmadTasin&show_icons=true&count_private=true) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KausarAhmadTasin) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=KausarAhmadTasin) 
 
 ![](https://komarev.com/ghpvc/?username=KausarAhmadTasin&color=green)
 
