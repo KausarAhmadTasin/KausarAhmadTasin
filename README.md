@@ -15,6 +15,11 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 
 ## 🚀 Projects
 
+<!---### Project 1: [Project Name](https://github.com/your-username/project-name)
+Description of the project and key technologies used.--->
+
+### Project 2: [Todo List CRUD]([https://github.com/your-username/project-name](https://task-management-use-reducer.vercel.app/)
+Simple Todo List. Developed using ReactJS, Local Storage. Create, Read, Update, Delete features added. 
 
 
 
