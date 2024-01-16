@@ -13,7 +13,7 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frontend:** React.js, Tailwind CSS, Bootstrap
 - **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, npm, Yarn
+- **Tools:** Visual Studio Code, Figma, npm, Yarn
 
 ## 🚀 Projects
 
@@ -49,6 +49,8 @@ I'm committed to enhancing my skills and contributing to meaningful projects. My
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KausarAhmadTasin)](https://github.com/anuraghazra/github-readme-stats)
 Thanks for stopping by! Let's build something amazing together. 😊
 <!--
 **KausarAhmadTasin/KausarAhmadTasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
