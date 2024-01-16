@@ -24,7 +24,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 <!---## 📫 Contact--->
 
-- **Email:** [Kausar Ahmad Tasin](kausar.ahmad.tasin01@gmail.com)
+- **Email:** kausar.ahmad.tasin01@gmail.com
 - **Phone:** +8801521541678
 - **LinkedIn:** [Kausar Ahmad Tasin](https://www.linkedin.com/in/kausar-ahmad-tasin/)
 <!--- **Portfolio:** [Portfolio Website]()-->
