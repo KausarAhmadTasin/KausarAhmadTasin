@@ -1,4 +1,4 @@
-![JavaScript || ReactJS || HTML || CSS](https://ibb.co/FxQ3swR)
+![JavaScript || ReactJS || HTML || CSS](https://i.ibb.co/YR5QDkH/1.png)
 ### Hi there 👋
 
 <!--
