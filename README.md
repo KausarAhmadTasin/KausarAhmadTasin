@@ -50,7 +50,7 @@ I'm committed to enhancing my skills and contributing to meaningful projects. My
 - ⚡ Fun fact: ...
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KausarAhmadTasin)(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KausarAhmadTasin)
 Thanks for stopping by! Let's build something amazing together. 😊
 <!--
 **KausarAhmadTasin/KausarAhmadTasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
