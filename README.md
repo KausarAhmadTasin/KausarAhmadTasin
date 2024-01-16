@@ -1,4 +1,4 @@
-![JavaScript || ReactJS || HTML || CSS](https://media.licdn.com/dms/image/D5616AQFlGjRggYm2Xw/profile-displaybackgroundimage-shrink_350_1400/0/1705305622577?e=1710979200&v=beta&t=Z2GyKSc_PSP82dxY42Ls5oAQZUP7pL0VR2V4LaOh7MA)
+![JavaScript || ReactJS || HTML || CSS](https://ibb.co/FxQ3swR)
 ### Hi there 👋
 
 <!--
