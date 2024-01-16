@@ -20,7 +20,7 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in [specific technology/framework].
+I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in Redux, NEXT.js.
 
 <!---## 📫 Contact--->
 
