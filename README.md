@@ -15,7 +15,7 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 
 ## 🚀 Projects
 
-### Project 1: [Halal Jibika]([https://github.com/your-username/project-name](https://halal-jibika-xi.vercel.app/) | [GitHub Repo](https://github.com/KausarAhmadTasin/halal-jibika/tree/main)
+### Project 1: [Halal Jibika](https://halal-jibika-xi.vercel.app/) | [GitHub Repo](https://github.com/KausarAhmadTasin/halal-jibika/tree/main)
 A React.js-based web application that allows users to post job offers and manage their job posts. This app provides a seamless user experience with features such as job posting, job search, updating, deleting, and favoriting job posts. Users can also apply for jobs, and only logged-in users have access to view their favorite jobs and applied jobs.
 
 ### Project 2: [Todo List CRUD](https://task-management-use-reducer.vercel.app/) | [GitHub Repo.](https://github.com/KausarAhmadTasin/task-management-crud)
