@@ -15,8 +15,8 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 
 ## 🚀 Projects
 
-<!---### Project 1: [Project Name](https://github.com/your-username/project-name)
-Description of the project and key technologies used.--->
+### Project 1: [Halal Jibika]([https://github.com/your-username/project-name](https://halal-jibika-xi.vercel.app/) | [GitHub Repo](https://github.com/KausarAhmadTasin/halal-jibika/tree/main)
+A React.js-based web application that allows users to post job offers and manage their job posts. This app provides a seamless user experience with features such as job posting, job search, updating, deleting, and favoriting job posts. Users can also apply for jobs, and only logged-in users have access to view their favorite jobs and applied jobs.
 
 ### Project 2: [Todo List CRUD](https://task-management-use-reducer.vercel.app/) | [GitHub Repo.](https://github.com/KausarAhmadTasin/task-management-crud)
 Simple Todo List. Developed using ReactJS, Local Storage. Create, Read, Update, Delete features added. 
@@ -45,8 +45,8 @@ I'm open to collaboration and networking. Feel free to reach out if you want to 
 ## 🎯 Goals for the Future
 
 I'm committed to enhancing my skills and contributing to meaningful projects. My goal is to [mention your long-term career or project goals].
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Frond-End web development
+- 🌱 I’m currently learning NEXT.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
