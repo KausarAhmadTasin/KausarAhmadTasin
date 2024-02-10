@@ -9,9 +9,9 @@ I'm a dedicated Frontend Developer with a passion for crafting exceptional user 
 ## 💼 Skills
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React.js, Tailwind CSS, Bootstrap
+- **Frontend:** React.js, Tailwind CSS, Handling REST API
 - **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, Figma, npm, Yarn. Vercel
+- **Tools:** Visual Studio Code,Firebase, Figma, npm, Yarn. Vercel
 
 ## 🚀 Projects
 
