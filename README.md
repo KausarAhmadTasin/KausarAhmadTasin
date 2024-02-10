@@ -23,11 +23,11 @@ Simple Todo List. Developed using ReactJS, Local Storage. Create, Read, Update, 
 
 
 
-## 🌱 Currently Learning
+<!---## 🌱 Currently Learning
 
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in Redux, NEXT.js.
+I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in Redux, NEXT.js.-->
 
-<!---## 📫 Contact--->
+## 📫 Contact
 
 - **Email:** kausar.ahmad.tasin01@gmail.com
 - **Phone:** +8801521541678
@@ -42,7 +42,7 @@ I'm open to collaboration and networking. Feel free to reach out if you want to 
 
 
 
-## 🎯 Goals for the Future
+<!--## 🎯 Goals for the Future
 
 I'm committed to enhancing my skills and contributing to meaningful projects. My goal is to [mention your long-term career or project goals].
 - 🔭 I’m currently working on Frond-End web development
@@ -50,7 +50,7 @@ I'm committed to enhancing my skills and contributing to meaningful projects. My
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KausarAhmadTasin)
