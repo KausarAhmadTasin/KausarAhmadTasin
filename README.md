@@ -1,4 +1,4 @@
-![JavaScript || ReactJS || HTML || CSS]([https://i.ibb.co/YR5QDkH/1.png](https://i.ibb.co/NYSSrzs/White-and-Black-Icons-July-Celebrants-Birthday-Facebook-Cover-1.png)
+![JavaScript || ReactJS || HTML || CSS]([https://i.ibb.co/NYSSrzs/White-and-Black-Icons-July-Celebrants-Birthday-Facebook-Cover-1.png])
 ## Hi there 👋 I am Kausar Ahmad Tasin
 ### Jr. Front-End Developer || ReactJS Developer|| JavaScript Developer
 
