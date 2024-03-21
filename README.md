@@ -1,4 +1,4 @@
-![JavaScript || ReactJS || HTML || CSS](https://i.ibb.co/YR5QDkH/1.png)
+![JavaScript || ReactJS || HTML || CSS]([https://i.ibb.co/YR5QDkH/1.png](https://i.ibb.co/NYSSrzs/White-and-Black-Icons-July-Celebrants-Birthday-Facebook-Cover-1.png))
 ## Hi there 👋 I am Kausar Ahmad Tasin
 ### Jr. Front-End Developer || ReactJS Developer|| JavaScript Developer
 
@@ -23,16 +23,17 @@ Simple Todo List. Developed using ReactJS, Local Storage. Create, Read, Update, 
 
 
 
-<!---## 🌱 Currently Learning
+## 🌱 Currently Learning
 
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in Redux, NEXT.js.-->
+I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on improving my skills in Redux, NEXT.js.
+
 
 ## 📫 Contact
 
 - **Email:** kausar.ahmad.tasin01@gmail.com
 - **Phone:** +8801521541678
 - **LinkedIn:** [Kausar Ahmad Tasin](https://www.linkedin.com/in/kausar-ahmad-tasin/)
-<!--- **Portfolio:** [Portfolio Website]()-->
+- **Portfolio:** [Portfolio Website](https://kausaahmadtasin-portfolio.vercel.app/)
 
 
 
