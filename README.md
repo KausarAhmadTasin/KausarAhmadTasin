@@ -1,6 +1,6 @@
 ![JavaScript || ReactJS || HTML || CSS](https://i.ibb.co/NYSSrzs/White-and-Black-Icons-July-Celebrants-Birthday-Facebook-Cover-1.png)
 ## Hi there 👋 I am Kausar Ahmad Tasin
-### Jr. Front-End Developer || ReactJS Developer|| JavaScript Developer
+### Front-End Developer || ReactJS Developer || JavaScript Developer
 
 I'm a dedicated Frontend Developer with a passion for crafting exceptional user experiences. I specialize in using modern technologies like React.js, JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap to build responsive and visually appealing web applications.
 
