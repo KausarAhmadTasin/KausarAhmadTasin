@@ -1,4 +1,4 @@
-![JavaScript || ReactJS || HTML || CSS](https://i.ibb.co/NYSSrzs/White-and-Black-Icons-July-Celebrants-Birthday-Facebook-Cover-1.png)
+![JavaScript || NodeJS || ExpressJS || MongoDB || ReactJS]
 
 ## Hi there 👋 I am Kausar Ahmad Tasin
 ### Full-Stack Developer
