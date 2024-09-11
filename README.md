@@ -1,5 +1,3 @@
-![JavaScript || NodeJS || ExpressJS || MongoDB || ReactJS]
-
 ## Hi there 👋 I am Kausar Ahmad Tasin
 ### Full-Stack Developer
 
