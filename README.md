@@ -17,7 +17,9 @@ I'm a dedicated MERN Stack Developer with a passion for crafting exceptional use
 **Contest Pro** is a dynamic platform that allows users to create, manage, and participate in various contests. It features role-based access with three main roles: Admin, Creator, and User. The project includes an admin dashboard for managing users and contests.
 
 **Admin:** Can manage user roles (promote users to creators or admins), approve or reject contests, and declare winners.
+
 **Creator:** Can create, update, and delete contests, and declare one participant as the winner.
+
 **User**: Can participate in contests, view contest details, track their winning statistics, and see the results of contests they’ve entered.
 
 - **Frontend:** React.js, Tailwind CSS, Firebase Hosting
