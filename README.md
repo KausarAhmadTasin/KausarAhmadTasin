@@ -5,7 +5,7 @@ I'm a dedicated MERN Stack Developer with a passion for crafting exceptional use
 
 ## 💼 Skills
 
-- **Expertise:** JavaScript (ES6+), React.js, CSS, Tailwind CSS, HTML, Express.js, MongoDB,
+- **Expertise:** JavaScript (ES6+), TypeScript React.js, Express.js, MongoDB,
 - **Comfortable:** Next.js, MySQL, Bootstrap
 - **Familiar:** jQuery, 
 - **Tools:** JWT, React Query, Git, GitHub, Vercel, Firebase
