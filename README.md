@@ -2,7 +2,7 @@
 
 - Focused on building reliable, efficient, and scalable software solutions across the web stack.
 
-- Passionate about full-stack web development, backend systems, REST APIs, and database design.
+- Passionate about full-stack web development, backend systems, APIs, and database design.
 
 - Currently exploring advanced software architecture, system design, and clean code principles.
 
